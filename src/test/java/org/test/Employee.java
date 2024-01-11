@@ -28,5 +28,9 @@ public class Employee {
 		System.out.println("INDIANS");
 
 	}
+	private void pakistan() {
+		System.out.println("pak");
+
+	}
 
 }
