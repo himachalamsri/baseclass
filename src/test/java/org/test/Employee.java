@@ -20,6 +20,16 @@ public class Employee {
 		System.out.println("test5");
 
 	}
+	private void Americca() {
+		System.out.println("ENGLISH");
+
+	}
+	private void tamilnadu() {
+		System.out.println("TAMIL");
+	}
+	private void kerala() {
+		System.out.println("MALAYALAM");
+	}
 	private void andrapradesh() {
 		System.out.println("TELUGU");
 
@@ -30,7 +40,7 @@ public class Employee {
 	}
 	private void pakistan() {
 		System.out.println("pak");
-
+	
 	}
 
 }
