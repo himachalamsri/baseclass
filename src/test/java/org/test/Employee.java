@@ -20,5 +20,17 @@ public class Employee {
 		System.out.println("test5");
 
 	}
+	
+	private void Americca() {
+		System.out.println("ENGLISH");
+
+	}
+	private void tamilnadu() {
+		System.out.println("TAMIL");
+	}
+	private void kerala() {
+		System.out.println("MALAYALAM");
+
+	}
 
 }
